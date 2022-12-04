@@ -1,0 +1,26 @@
+{
+  "files.exclude": {
+    "windows": true,
+    ".dart_tool": true,
+    ".idea": true,
+    ".vscode": true,
+    "README.md": true,
+    ".gitignore": true,
+    ".metadata": true,
+    "analysis_options.yaml": true,
+    "ios": true,
+    "linux": true,
+    "macos": true,
+    "movie.iml": true,
+    "pubspec.lock": true,
+    "test": true,
+    "web": true,
+    "android": true
+  },
+  "cSpell.words": [
+    "dartz",
+    "pramas",
+    "themoviedb",
+    "unawaited"
+  ]
+}
